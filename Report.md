@@ -359,4 +359,5 @@ plot(mod_rf)
 plot(mod_gbm)
 ```
 
-![](report_files/figure-html/unnamed-chunk-14-3.png)<!-- -->
+![image](https://github.com/Sanchit-23/Practical_Machine_Learning_Assignment/assets/89540315/1746f0ec-9c91-41cc-8d7b-bb3ba882ab87)
+)<!-- -->
