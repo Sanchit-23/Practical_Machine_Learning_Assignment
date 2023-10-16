@@ -339,7 +339,8 @@ corrPlot <- cor(train[, -length(names(train))])
 corrplot(corrPlot, method="color")
 ```
 
-![](report_files/figure-html/unnamed-chunk-13-1.png)<!-- -->
+![image](https://github.com/Sanchit-23/Practical_Machine_Learning_Assignment/assets/89540315/274553ee-e5b2-4837-9a97-a2805b69dbd7)
+<!-- -->
 
 Plotting the models
 
@@ -347,13 +348,15 @@ Plotting the models
 plot(mod_trees)
 ```
 
-![](report_files/figure-html/unnamed-chunk-14-1.png)<!-- -->
+![image](https://github.com/Sanchit-23/Practical_Machine_Learning_Assignment/assets/89540315/e6a40c2b-6a5b-47ad-b943-0084c8f5691f)
+<!-- -->
 
 ```r
 plot(mod_rf)
 ```
 
-![](report_files/figure-html/unnamed-chunk-14-2.png)<!-- -->
+![image](https://github.com/Sanchit-23/Practical_Machine_Learning_Assignment/assets/89540315/aa8af970-1949-41ae-aec6-ff717eb3bddb)
+)<!-- -->
 
 ```r
 plot(mod_gbm)
