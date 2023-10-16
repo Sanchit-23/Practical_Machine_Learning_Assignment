@@ -114,7 +114,7 @@ mod_trees <- train(classe~., data=train, method="rpart", trControl = control, tu
 fancyRpartPlot(mod_trees$finalModel)
 ```
 
-![](![image](https://github.com/Sanchit-23/Practical_Machine_Learning_Assignment/assets/89540315/bf59d5e7-99d0-486f-8d15-bf1edb936af2)
+(![image](https://github.com/Sanchit-23/Practical_Machine_Learning_Assignment/assets/89540315/36436a59-d055-4a08-b843-d4e8033c10d1)
 )<!-- -->
 
 **Prediction:**
